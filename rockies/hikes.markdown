@@ -1,7 +1,0 @@
----
-layout: default
-title: Hikes
-parent: Rocky Mountains
-grand_parent: Welcome
----
-Hi Hikes
