@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Hikes
+title: Route to Vancouver
 parent: Rocky Mountains
 grand_parent: Welcome
 ---
-Hi Hikes
+Hi Route to Vancouver

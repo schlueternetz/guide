@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Hikes
+title: Banff & Canmore
 parent: Rocky Mountains
 grand_parent: Welcome
 ---
-Hi Hikes
+Hi Banff and Canmore

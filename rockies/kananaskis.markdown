@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Hikes
+title: Kananaskis
 parent: Rocky Mountains
 grand_parent: Welcome
 ---
-Hi Hikes
+Hi Kananaskis

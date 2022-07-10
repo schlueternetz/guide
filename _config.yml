@@ -22,7 +22,7 @@ title: Christian's Guide
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Christian's recommendations for Calgary, the Canadian Rocky Mountains and Beyond
-baseurl: "/guide" # the subpath of your site, e.g. /blog
+#baseurl: "/guide" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -54,3 +54,4 @@ show_downloads: false
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+search_enabled: false

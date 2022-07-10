@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Food and Drinks
+title: Activities
 parent: Calgary
 grand_parent: Welcome
 ---
-Hi Food and Drink
+Hi Calgary Activities
