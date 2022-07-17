@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Easy Hikes
+title: Winter Hikes
 parent: Hikes
 grand_parent: Welcome
-nav_order: 10
+nav_order: 50
 ---
-# Easy Hikes
+# Winter Hikes

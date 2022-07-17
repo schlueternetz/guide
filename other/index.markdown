@@ -5,4 +5,4 @@ parent: Welcome
 has_children: true
 nav_order: 40
 ---
-Hi Other
+# Other Recommendations in Canada

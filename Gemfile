@@ -35,3 +35,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Allow local run
 gem "webrick"
+
+# Emoji lib
+gem 'jemoji'
+

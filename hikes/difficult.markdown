@@ -5,4 +5,4 @@ parent: Hikes
 grand_parent: Welcome
 nav_order: 30
 ---
-Hi Difficult Hikes
+# Difficult Dayhikes
