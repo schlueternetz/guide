@@ -3,8 +3,17 @@ layout: default
 title: Banff & Canmore
 parent: Rocky Mountains
 grand_parent: Welcome
+nav_order: 10
 ---
 # Banff and Canmore
+
+## Places to See
+- Banff: The wildlife museum
+- Canmore: Rats Nest Cave
+- The Hot Springs
+- Sulphur Mountain Gondola
+- Banff: Main Street Walk
+- Canmore: Second Hand Store
 
 ## Restaurants
 - Banff: Touloulous
@@ -24,3 +33,6 @@ For various reasons I would not recommend the following:
 
 - Canmore: Grizzly Paw Restaurant on the Main Street
 - Banff: The Samson Hostel
+- Banff: The Cave & Basin
+- Banff: Magpie & Stump
+- Banff: Tunnel Mountain Campground

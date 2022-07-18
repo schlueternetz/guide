@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Outside of Calgary
-parent: Calgary
+title: Around Calgary
+parent: Other Recommendations
 grand_parent: Welcome
-nav_order: 50
 ---
 # Day- and Weekend trips outside of Calgary

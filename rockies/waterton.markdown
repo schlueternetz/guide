@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Kananaskis
+title: Waterton
 parent: Rocky Mountains
 grand_parent: Welcome
-nav_order: 20
+nav_order: 50
 ---
-# Kananaskis
+# Waterton National Park
